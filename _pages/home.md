@@ -12,19 +12,9 @@ permalink: https://cbdlittleton.com/
 published: true
 post_date: 2020-08-25 22:20:01
 ---
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":373,"sizeSlug":"large","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-style-rounded"><img src="https://cbdlittleton.com/wp-content/uploads/2020/09/cbd-littleton-frontCounter.jpg" alt="" class="wp-image-373"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
+<!-- wp:image {"id":373,"sizeSlug":"large","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="https://cbdlittleton.com/wp-content/uploads/2020/09/cbd-littleton-frontCounter.jpg" alt="" class="wp-image-373"/><figcaption><strong>Welcome to CBD American Shaman of Littleton, Colorado</strong></figcaption></figure>
+<!-- /wp:image -->
 
 <!-- wp:separator {"className":"is-style-wide"} -->
 <hr class="wp-block-separator is-style-wide" id="locations"/>
