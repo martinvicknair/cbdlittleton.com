@@ -16,6 +16,10 @@ post_date: 2020-08-25 22:20:01
 <div class="wp-block-image is-style-rounded"><figure class="aligncenter size-full is-resized"><img src="https://cbdlittleton.com/wp-content/uploads/2020/09/cbd-littleton-frontCounter.jpg" alt="" class="wp-image-373" width="439" height="500"/></figure></div>
 <!-- /wp:image -->
 
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Welcome to CBD American Shaman of Littleton, Colorado</strong></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:separator {"className":"is-style-wide"} -->
 <hr class="wp-block-separator is-style-wide" id="locations"/>
 <!-- /wp:separator -->
