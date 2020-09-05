@@ -27,7 +27,7 @@ post_date: 2020-08-25 22:20:01
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p><strong>CBD American Shaman of Littleton</strong><br><a href="https://goo.gl/maps/n82b8KhtKeDEc5ML8">9878 W Belleview Ave, Littleton, CO 80123</a><br>Monday – Saturday 10am – 7pm<br>Sunday 10am-4pm<br>Next to King Soopers<br><a href="tel:+1-720-866-9833">720-866-9833</a></p>
+<p><strong>CBD American Shaman of Littleton</strong><br><a href="https://goo.gl/maps/n82b8KhtKeDEc5ML8">9878 W Belleview Ave, Littleton, CO 80123</a><br>Monday – Saturday 10am – 7pm<br>Sunday 10am-4pm<br>Next to King Soopers-SW corner W Belleview &amp; S Kipling<br><a href="tel:+1-720-866-9833">720-866-9833</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
