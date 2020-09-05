@@ -12,8 +12,8 @@ permalink: https://cbdlittleton.com/
 published: true
 post_date: 2020-08-25 22:20:01
 ---
-<!-- wp:image {"align":"center","id":373,"sizeSlug":"medium","className":"is-style-rounded"} -->
-<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-medium"><img src="https://cbdlittleton.com/wp-content/uploads/2020/09/cbd-littleton-frontCounter-263x300.jpg" alt="" class="wp-image-373"/><figcaption><strong>Welcome to CBD American Shaman of Littleton, Colorado</strong></figcaption></figure></div>
+<!-- wp:image {"align":"center","id":373,"width":439,"height":500,"sizeSlug":"full","className":"is-style-rounded"} -->
+<div class="wp-block-image is-style-rounded"><figure class="aligncenter size-full is-resized"><img src="https://cbdlittleton.com/wp-content/uploads/2020/09/cbd-littleton-frontCounter.jpg" alt="" class="wp-image-373" width="439" height="500"/><figcaption><strong>Welcome to CBD American Shaman of Littleton, Colorado</strong></figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:separator {"className":"is-style-wide"} -->
