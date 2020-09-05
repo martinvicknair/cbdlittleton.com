@@ -20,13 +20,9 @@ post_date: 2020-08-25 22:20:01
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":56,"width":365,"height":365,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large is-resized"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/hempauthority.png" alt="" class="wp-image-56" width="365" height="365"/><figcaption><a href="/shop-online-now/">Free Shipping with $99 purchase</a></figcaption></figure>
-<!-- /wp:image -->
-
-<!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"><!-- wp:button {"style":{"color":{"gradient":"radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)"}},"textColor":"black","className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-black-color has-text-color has-background" href="/shop-online-now/" style="background:radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)" rel="/shop-online-now/">Shop Online Now!</a></div>
+<div class="wp-block-column"><!-- wp:buttons {"align":"center"} -->
+<div class="wp-block-buttons aligncenter"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link"></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
