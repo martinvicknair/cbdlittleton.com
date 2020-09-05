@@ -21,9 +21,7 @@ post_date: 2020-08-25 22:20:01
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:buttons {"align":"center"} -->
-<div class="wp-block-buttons aligncenter"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link"></a></div>
-<!-- /wp:button --></div>
+<div class="wp-block-buttons aligncenter"></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
