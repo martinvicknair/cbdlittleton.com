@@ -14,7 +14,7 @@ post_date: 2020-08-26 19:33:30
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Our proprietary nanotechnology sets us apart from other CBD companies because it allows us to create full-spectrum CBD with smaller particles that allow for quicker absorption. We use high-quality ingredients and terpene-rich hemp to create top of the line CBD products.  </p>
+<p>Our&nbsp;proprietary nanotechnology&nbsp;sets us apart from other CBD companies because it allows us to create full-spectrum CBD with smaller particles that allow for quicker absorption. We use high-quality ingredients and terpene-rich hemp to create top of the line&nbsp;CBD products.&nbsp;&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -24,13 +24,13 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":164,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/water-soluble-full-spectrum-hemp-oil-30ml.jpg" alt="" class="wp-image-164"/></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/vg-cloud-terpene-rich-cbd-oil-tincture"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/water-soluble-full-spectrum-hemp-oil-30ml.jpg" alt="" class="wp-image-164"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>Water Soluble Hemp Oil</h2>
+<h2><a href="https://cbdamericanshaman.com/littleton/vg-cloud-terpene-rich-cbd-oil-tincture">Water Soluble Hemp Oil</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
