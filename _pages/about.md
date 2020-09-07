@@ -9,7 +9,7 @@ published: true
 post_date: 2020-08-25 22:52:24
 ---
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p><strong><em>We are here to help.</em></strong> </p><cite><strong><span class="has-inline-color has-vivid-cyan-blue-color">Owner Wade Kenawell on opening the first American Shaman CBD store in Littleton, Colorado</span></strong> </cite></blockquote>
+<blockquote class="wp-block-quote"><p><strong><em>We are here to help.</em></strong> </p><cite><strong><span class="has-inline-color has-vivid-cyan-blue-color">Owner Wade Kenawell on opening the first American Shaman CBD store in Littleton, Colorado</span></strong>. </cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
