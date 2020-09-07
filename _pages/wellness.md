@@ -23,13 +23,13 @@ post_date: 2020-08-26 23:31:44
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":267,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-gourmet-gummies-full-spectrum.jpg" alt="" class="wp-image-267"/></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/gourmet-cbd-gummies-25mg"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-gourmet-gummies-full-spectrum.jpg" alt="" class="wp-image-267"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>CBD Gourmet Gummies</h2>
+<h2><a href="https://cbdamericanshaman.com/littleton/gourmet-cbd-gummies-25mg">CBD Gourmet Gummies</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -45,13 +45,13 @@ post_date: 2020-08-26 23:31:44
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":268,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-terpene-rich-hemp-candy.jpg" alt="" class="wp-image-268"/></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/cbd-terpene-rich-candy"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-terpene-rich-hemp-candy.jpg" alt="" class="wp-image-268"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>CBD &amp; Terpene Rich Candy</h2>
+<h2><a href="https://cbdamericanshaman.com/littleton/cbd-terpene-rich-candy">CBD &amp; Terpene Rich Candy</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -67,13 +67,13 @@ post_date: 2020-08-26 23:31:44
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":269,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-sparkling-water.jpg" alt="" class="wp-image-269"/></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/cbd-sparkling-water"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-sparkling-water.jpg" alt="" class="wp-image-269"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>CBD Sparkling Water</h2>
+<h2><a href="https://cbdamericanshaman.com/littleton/cbd-sparkling-water">CBD Sparkling Water</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -89,13 +89,13 @@ post_date: 2020-08-26 23:31:44
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":270,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-coffee-k-cup.jpg" alt="" class="wp-image-270"/></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/cbd-coffee"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-coffee-k-cup.jpg" alt="" class="wp-image-270"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>CBD Coffee</h2>
+<h2><a href="https://cbdamericanshaman.com/littleton/cbd-coffee">CBD Coffee</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -111,13 +111,13 @@ post_date: 2020-08-26 23:31:44
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":273,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-honey-thc-free.png" alt="" class="wp-image-273"/></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/cbd-honey"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-honey-thc-free.png" alt="" class="wp-image-273"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>CBD Honey</h2>
+<h2><a href="https://cbdamericanshaman.com/littleton/cbd-honey">CBD Honey</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -133,13 +133,13 @@ post_date: 2020-08-26 23:31:44
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":274,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-brownies.png" alt="" class="wp-image-274"/></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/cbd-brownies"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-brownies.png" alt="" class="wp-image-274"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>CBD Brownies</h2>
+<h2><a href="https://cbdamericanshaman.com/littleton/cbd-brownies">CBD Brownies</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -155,13 +155,13 @@ post_date: 2020-08-26 23:31:44
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":275,"sizeSlug":"medium"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-cookies-300x209.jpg" alt="" class="wp-image-275"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><a href="https://cbdamericanshaman.com/littleton/cookies"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-cookies-300x209.jpg" alt="" class="wp-image-275"/></a></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>CBD Cookies</h2>
+<h2><a href="https://cbdamericanshaman.com/littleton/cookies">CBD Cookies</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -177,13 +177,13 @@ post_date: 2020-08-26 23:31:44
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":276,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-popcorn.png" alt="" class="wp-image-276"/></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/cbd-popcorn"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-popcorn.png" alt="" class="wp-image-276"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2>CBD Popcorn</h2>
+<h2><a href="https://cbdamericanshaman.com/littleton/cbd-popcorn">CBD Popcorn</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -197,7 +197,7 @@ post_date: 2020-08-26 23:31:44
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p>CBD wellness products from CBD American Shaman are made from high quality and terpene rich pure hemp extract! All of our CBD oil products are made with non-GMO hemp, grown in the USA, powered by our proprietary nanotechnology, and lab tested to ensure purity and potency standards.</p>
+<p>CBD wellness products from CBD American Shaman are made from high quality and terpene rich pure hemp extract! All of our&nbsp;CBD oil&nbsp;products are made with non-GMO hemp, grown in the USA, powered by our proprietary nanotechnology, and lab tested to ensure purity and potency standards.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
