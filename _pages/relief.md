@@ -9,7 +9,7 @@ published: true
 post_date: 2020-08-26 23:27:44
 ---
 <!-- wp:heading {"level":1} -->
-<h1>Does CBD oil help with relief from discomfort?</h1>
+<h1>Does CBD oil help with relief from discomfort? </h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -111,13 +111,13 @@ post_date: 2020-08-26 23:27:44
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":288,"sizeSlug":"medium"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><a href="https://cbdamericanshaman.com/arvada/terpene-rich-cbd-oil-tincture"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-terpene-rich-hemp-oil-tincture-145x300.jpg" alt="" class="wp-image-288"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><a href="https://cbdamericanshaman.com/littleton/terpene-rich-cbd-oil-tincture"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-terpene-rich-hemp-oil-tincture-145x300.jpg" alt="" class="wp-image-288"/></a></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2><a href="https://cbdamericanshaman.com/arvada/terpene-rich-cbd-oil-tincture">Hemp Oil Tincture</a></h2>
+<h2><a href="https://cbdamericanshaman.com/littleton/terpene-rich-cbd-oil-tincture">Hemp Oil Tincture</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -133,13 +133,13 @@ post_date: 2020-08-26 23:27:44
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":184,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/arvada/concentrated-cbd-hemp-oil-capsules-15mg"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/concentrated-hemp-oil-capsules.jpg" alt="" class="wp-image-184"/></a></figure>
+<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/concentrated-cbd-hemp-oil-capsules-15mg"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/concentrated-hemp-oil-capsules.jpg" alt="" class="wp-image-184"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading -->
-<h2><a href="https://cbdamericanshaman.com/arvada/concentrated-cbd-hemp-oil-capsules-15mg">CBD Hemp Oil Capsules</a></h2>
+<h2><a href="https://cbdamericanshaman.com/littleton/concentrated-cbd-hemp-oil-capsules-15mg">CBD Hemp Oil Capsules</a></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
