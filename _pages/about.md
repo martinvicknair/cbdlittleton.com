@@ -17,7 +17,7 @@ post_date: 2020-08-25 22:52:24
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>As a company we are focused on the welfare of our customers and even provide a&nbsp;<a href="https://cbdamericanshaman.com/littleton/compassionate-care">Compassionate Care</a>&nbsp;program with discounts for those in need, those who are low-income, and for veterans. We offer competitive pricing and have a money back guarantee policy. If not satisfied, we will refund your order within 45 days if purchased from our&nbsp;<a href="http://cbdamericanshaman.com/littleton">website</a>. For in store purchases, you have 30 days in which to return the item (with proof of purchase) to the location from which it was purchased.</p>
+<p>As a company we are focused on the welfare of our customers and even provide a <a href="https://cbdamericanshaman.com/littleton/compassionate-care">Compassionate Care</a> program with discounts for those in need, those who are low-income, and for veterans. We offer competitive pricing and have a money back guarantee policy. If not satisfied, we will refund your order within 45 days if purchased from our <a href="https://cbdamericanshaman.com/littleton">website</a>. For in store purchases, you have 30 days in which to return the item (with proof of purchase) to the location from which it was purchased.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
