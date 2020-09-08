@@ -9,7 +9,7 @@ post_excerpt: >
   or redistribute your information to
   anyone.
 layout: page
-permalink: https://cbdlittleton.com/privacy-policy/
+permalink: http://cbdlittleton.com/privacy-policy/
 published: true
 post_date: 2020-08-25 22:09:35
 ---
