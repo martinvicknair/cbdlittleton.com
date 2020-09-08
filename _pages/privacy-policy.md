@@ -9,12 +9,12 @@ post_excerpt: >
   or redistribute your information to
   anyone.
 layout: page
-permalink: http://cbdlittleton.com/privacy-policy/
+permalink: https://cbdlittleton.com/privacy-policy/
 published: true
 post_date: 2020-08-25 22:09:35
 ---
 <!-- wp:heading -->
-<h2>Who we are </h2>
+<h2>Who we are: </h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
