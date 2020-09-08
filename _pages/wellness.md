@@ -12,7 +12,7 @@ post_excerpt: >
   lab tested to ensure purity and potency
   standards.
 layout: page
-permalink: http://cbdlittleton.com/wellness/
+permalink: https://cbdlittleton.com/wellness/
 published: true
 post_date: 2020-08-26 23:31:44
 ---
