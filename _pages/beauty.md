@@ -7,7 +7,7 @@ post_excerpt: >
   Shaman are made from high quality and
   terpene rich pure hemp extract!
 layout: page
-permalink: https://cbdlittleton.com/beauty/
+permalink: http://cbdlittleton.com/beauty/
 published: true
 post_date: 2020-08-26 23:30:49
 ---
