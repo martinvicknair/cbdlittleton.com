@@ -2,7 +2,15 @@
 ID: 214
 post_title: Edibles for Wellness
 author: cbdlittleton
-post_excerpt: ""
+post_excerpt: >
+  CBD wellness products from CBD American
+  Shaman are made from high quality and
+  terpene rich pure hemp extract! All of
+  our CBD oil products are made with
+  non-GMO hemp, grown in the USA, powered
+  by our proprietary nanotechnology, and
+  lab tested to ensure purity and potency
+  standards.
 layout: page
 permalink: https://cbdlittleton.com/wellness/
 published: true
