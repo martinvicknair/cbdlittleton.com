@@ -7,7 +7,7 @@ post_excerpt: >
   Please leave a review about your
   experience with us. Thank you so much!
 layout: page
-permalink: http://cbdlittleton.com/reviews/
+permalink: https://cbdlittleton.com/reviews/
 published: true
 post_date: 2020-08-25 22:52:45
 ---
@@ -33,20 +33,4 @@ post_date: 2020-08-25 22:52:45
 
 <!-- wp:separator {"className":"is-style-default"} -->
 <hr class="wp-block-separator is-style-default"/>
-<!-- /wp:separator -->
-
-<!-- wp:paragraph -->
-<p><a href="https://www.yelp.com/biz/cbd-american-shaman-of-littleton-littleton"><strong>Click here to leave your Yelp Review!</strong></a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator"/>
-<!-- /wp:separator -->
-
-<!-- wp:shortcode -->
-[yrw business_id="LA6LUWk_BxSF4MMMyFC2aA" refresh_reviews=true read_on_yelp=true open_link=true nofollow_link=true]
-<!-- /wp:shortcode -->
-
-<!-- wp:separator -->
-<hr class="wp-block-separator"/>
 <!-- /wp:separator -->
