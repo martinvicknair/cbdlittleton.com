@@ -2,7 +2,7 @@
 ID: 163
 post_title: Featured Products
 author: cbdlittleton
-post_excerpt: "CBD American Shaman's nanotechnology empowers us to share the most powerful and effective hemp oil with the world. Our proprietary nanotechnology shatters the oil apart, increasing potency and drastically reducing wait time. Try CBD powered by our nanotechnology and you'll agree: no competing product comes close!"
+post_excerpt: 'We use high-quality ingredients and terpene-rich hemp to create top of the line CBD products.  Gummies, topicals, even products for your pets!'
 layout: page
 permalink: >
   https://cbdlittleton.com/featured-products/
