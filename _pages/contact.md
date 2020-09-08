@@ -4,14 +4,14 @@ post_title: Contact Us
 author: cbdlittleton
 post_excerpt: ""
 layout: page
-permalink: http://cbdlittleton.com/contact/
+permalink: https://cbdlittleton.com/contact/
 published: true
 post_date: 2020-08-25 22:53:08
 ---
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":33.33} -->
 <div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:paragraph -->
-<p><strong><strong>CBD American Shaman of Littleton</strong><br><a href="https://goo.gl/maps/n82b8KhtKeDEc5ML8">9878 W Belleview Ave, Littleton, CO 80123</a><br><br><a href="tel:+1-720-866-9833">720-866-9833</a></strong></p>
+<p><strong><strong>CBD American Shaman of Littleton</strong> <br><a href="https://goo.gl/maps/n82b8KhtKeDEc5ML8">9878 W Belleview Ave, Littleton, CO 80123</a> <br><br><a href="tel:+1-720-866-9833">720-866-9833</a></strong> </p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
