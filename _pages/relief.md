@@ -9,7 +9,7 @@ post_excerpt: >
   tinctures, water solubles, topical
   serums, and more.
 layout: page
-permalink: http://cbdlittleton.com/relief/
+permalink: https://cbdlittleton.com/relief/
 published: true
 post_date: 2020-08-26 23:27:44
 ---
