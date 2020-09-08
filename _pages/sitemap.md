@@ -6,7 +6,7 @@ post_excerpt: >
   A listing of the pages, posts, and links
   on this website.
 layout: page
-permalink: https://cbdlittleton.com/sitemap/
+permalink: http://cbdlittleton.com/sitemap/
 published: true
 post_date: 2020-08-26 00:00:47
 ---
