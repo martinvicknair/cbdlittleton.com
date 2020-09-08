@@ -4,7 +4,7 @@ post_title: About
 author: cbdlittleton
 post_excerpt: ""
 layout: page
-permalink: https://cbdlittleton.com/about/
+permalink: http://cbdlittleton.com/about/
 published: true
 post_date: 2020-08-25 22:52:24
 ---
