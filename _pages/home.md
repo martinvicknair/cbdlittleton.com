@@ -3,10 +3,9 @@ ID: 5
 post_title: Home
 author: cbdlittleton
 post_excerpt: >
-  Shop in person today at either of our
-  convenient locations in Arvada,
-  Colorado. Shop online, free shipping
-  with $99 purchase
+  Shop for CBD in person today in
+  Littleton, Colorado. Shop online, free
+  shipping with $99 purchase.
 layout: page
 permalink: https://cbdlittleton.com/
 published: true
