@@ -2,14 +2,19 @@
 ID: 3
 post_title: Privacy Policy
 author: cbdlittleton
-post_excerpt: ""
+post_excerpt: >
+  We take your privacy seriously and will
+  take all measures to protect your
+  personal information. We will not sell
+  or redistribute your information to
+  anyone.
 layout: page
 permalink: https://cbdlittleton.com/privacy-policy/
 published: true
 post_date: 2020-08-25 22:09:35
 ---
 <!-- wp:heading -->
-<h2>Who we are</h2>
+<h2>Who we are </h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
