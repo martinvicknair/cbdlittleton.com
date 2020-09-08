@@ -2,7 +2,15 @@
 ID: 210
 post_title: Products for your Pet
 author: cbdlittleton
-post_excerpt: ""
+post_excerpt: >
+  We use the best of ingredients for our
+  dog, cat, and horse customers. After
+  all, they’re family, too! Our
+  selection of CBD products for pets
+  includes treats, food, tinctures, water
+  solubles, and more, so that you can
+  choose from many ways to give your pet
+  CBD.
 layout: page
 permalink: https://cbdlittleton.com/pets/
 published: true
@@ -13,7 +21,7 @@ post_date: 2020-08-26 23:29:20
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Animals have occasional stress, need joint health support, and have many of the same wellness needs as humans. So, just as with our human line of products, we use the best of ingredients for our canine, feline or equine customers. After all, they’re family, too! Our selection of CBD pet products includes dog treats, dog food, canine and feline tinctures, water solubles, and more, so that you can choose from many ways to give your pet CBD.</p>
+<p>Animals have occasional stress, need joint health support, and have many of the same wellness needs as humans. So, just as with our human line of products, we use the best of ingredients for our canine, feline, and equine customers. After all, they’re family, too! Our selection of CBD pet products includes dog treats, dog food, canine and feline tinctures, water solubles, and more, so that you can choose from many ways to give your pet CBD.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
