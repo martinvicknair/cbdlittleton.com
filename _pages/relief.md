@@ -2,7 +2,12 @@
 ID: 208
 post_title: Hemp Oil for Relief
 author: cbdlittleton
-post_excerpt: ""
+post_excerpt: >
+  CBD hemp oil from CBD American Shaman is
+  made from high quality and terpene rich
+  pure hemp extract! Choose from
+  tinctures, water solubles, topical
+  serums, and more.
 layout: page
 permalink: https://cbdlittleton.com/relief/
 published: true
