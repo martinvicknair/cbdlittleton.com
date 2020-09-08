@@ -5,7 +5,7 @@ author: cbdlittleton
 post_excerpt: 'We use high-quality ingredients and terpene-rich hemp to create top of the line CBD products.  Gummies, topicals, even products for your pets!'
 layout: page
 permalink: >
-  http://cbdlittleton.com/featured-products/
+  https://cbdlittleton.com/featured-products/
 published: true
 post_date: 2020-08-26 19:33:30
 ---
