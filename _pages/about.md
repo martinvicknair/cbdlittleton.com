@@ -2,9 +2,9 @@
 ID: 8
 post_title: About
 author: cbdlittleton
-post_excerpt: ""
+post_excerpt: 'CBD American Shaman of Littleton is dedicated to bringing wellness to the world through cannabinoid products derived from all natural, premium industrial hemp. We live out our values through fair business practices, philanthropy, and the highest quality hemp oil available anywhere. It is legal in all 50 states and is 100% Organic.'
 layout: page
-permalink: http://cbdlittleton.com/about/
+permalink: https://cbdlittleton.com/about/
 published: true
 post_date: 2020-08-25 22:52:24
 ---
