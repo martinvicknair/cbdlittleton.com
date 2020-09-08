@@ -2,7 +2,10 @@
 ID: 212
 post_title: Topicals for Beauty
 author: cbdlittleton
-post_excerpt: ""
+post_excerpt: >
+  CBD beauty products from CBD American
+  Shaman are made from high quality and
+  terpene rich pure hemp extract!
 layout: page
 permalink: https://cbdlittleton.com/beauty/
 published: true
