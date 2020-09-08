@@ -4,7 +4,7 @@ post_title: '15% Off Coupon'
 author: cbdlittleton
 post_excerpt: ""
 layout: page
-permalink: http://cbdlittleton.com/15-off-coupon/
+permalink: https://cbdlittleton.com/15-off-coupon/
 published: true
 post_date: 2020-08-30 18:59:03
 ---
