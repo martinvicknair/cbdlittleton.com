@@ -12,7 +12,7 @@ post_excerpt: >
   choose from many ways to give your pet
   CBD.
 layout: page
-permalink: https://cbdlittleton.com/pets/
+permalink: http://cbdlittleton.com/pets/
 published: true
 post_date: 2020-08-26 23:29:20
 ---
