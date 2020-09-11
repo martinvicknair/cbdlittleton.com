@@ -7,7 +7,7 @@ post_excerpt: >
   Littleton, Colorado. Shop online, free
   shipping with $99 purchase.
 layout: page
-permalink: http://cbdlittleton.com/
+permalink: https://cbdlittleton.com/
 published: true
 post_date: 2020-08-25 22:20:01
 ---
@@ -23,7 +23,8 @@ post_date: 2020-08-25 22:20:01
 <hr class="wp-block-separator is-style-wide" id="locations"/>
 <!-- /wp:separator -->
 
-<!-- wp:columns -->
+<!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":100} -->
 <div class="wp-block-column" style="flex-basis:100%"><!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:paragraph -->
@@ -35,7 +36,8 @@ post_date: 2020-08-25 22:20:01
 <!-- /wp:html --></div></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
-<!-- /wp:columns -->
+<!-- /wp:columns --></div></div>
+<!-- /wp:group -->
 
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
