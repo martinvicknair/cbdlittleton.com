@@ -7,7 +7,7 @@ post_excerpt: >
   Littleton, Colorado. Shop online, free
   shipping with $99 purchase.
 layout: page
-permalink: https://cbdlittleton.com/
+permalink: http://cbdlittleton.com/
 published: true
 post_date: 2020-08-25 22:20:01
 ---
