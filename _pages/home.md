@@ -7,7 +7,7 @@ post_excerpt: >
   Littleton, Colorado. Shop online, free
   shipping with $99 purchase.
 layout: page
-permalink: http://cbdlittleton.com/
+permalink: https://cbdlittleton.com/
 published: true
 post_date: 2020-08-25 22:20:01
 ---
@@ -30,8 +30,8 @@ post_date: 2020-08-25 22:20:01
 <!-- /wp:paragraph -->
 
 <!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:html -->
+<div class="wp-block-columns"><!-- wp:column {"width":100} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:html -->
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12292.559092913925!2d-105.1082046!3d39.6240566!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb9a70bcc05c49a3f!2sCBD%20American%20Shaman%20of%20Littleton!5e0!3m2!1sen!2sus!4v1599277105150!5m2!1sen!2sus" width="900" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 <!-- /wp:html --></div>
 <!-- /wp:column --></div>
