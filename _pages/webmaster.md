@@ -4,7 +4,7 @@ post_title: Webmaster
 author: cbdlittleton
 post_excerpt: 'Web design by GreatSites.io. Web Development, Local SEO, & Marketing. Franchisee support. Great Sites start here!'
 layout: page
-permalink: https://cbdlittleton.com/webmaster/
+permalink: http://cbdlittleton.com/webmaster/
 published: true
 post_date: 2020-09-07 18:00:11
 ---
