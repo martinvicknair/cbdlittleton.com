@@ -4,12 +4,12 @@ post_title: Webmaster
 author: cbdlittleton
 post_excerpt: 'Web design by GreatSites.io. Web Development, Local SEO, & Marketing. Franchisee support. Great Sites start here!'
 layout: page
-permalink: http://cbdlittleton.com/webmaster/
+permalink: https://cbdlittleton.com/webmaster/
 published: true
 post_date: 2020-09-07 18:00:11
 ---
 <!-- wp:heading {"level":1} -->
-<h1>Web design by <a href="http://greatsites.io/">greatsites.io</a>! </h1>
+<h1>Web design by <a href="http://greatsites.io/">GreatSites.io</a>! </h1>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
