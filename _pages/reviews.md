@@ -7,7 +7,7 @@ post_excerpt: >
   Please leave a review about your
   experience with us. Thank you so much!
 layout: page
-permalink: http://cbdlittleton.com/reviews/
+permalink: https://cbdlittleton.com/reviews/
 published: true
 post_date: 2020-08-25 22:52:45
 ---
@@ -20,7 +20,7 @@ post_date: 2020-08-25 22:52:45
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><a href="https://maps.google.com/?cid=13377674189025352255"><strong>Click here to leave your Google Review!</strong></a></p>
+<p><strong><a href="https://www.google.com/search?q=CBD+American+Shaman+of+Littleton&amp;entrypoint=sh/x/kp/local#lkt=LocalPoiReviews">Click here to leave your Google Review!</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
