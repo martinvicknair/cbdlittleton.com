@@ -5,7 +5,7 @@ author: cbdlittleton
 post_excerpt: 'We invite you to visit us and learn about the many benefits of our high quality CBD products! Come in today to our convenient Littleton location for a Free CBD Sample and receive 15% off at checkout.'
 layout: post
 permalink: >
-  https://cbdlittleton.com/15-off-coupon-post/
+  http://cbdlittleton.com/15-off-coupon-post/
 published: true
 post_date: 2020-09-14 17:23:34
 ---
