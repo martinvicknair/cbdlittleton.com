@@ -4,7 +4,7 @@ post_title: CBG Gummies
 author: cbdlittleton
 post_excerpt: ""
 layout: post
-permalink: https://cbdlittleton.com/cbg-gummies/
+permalink: http://cbdlittleton.com/cbg-gummies/
 published: true
 post_date: 2020-09-14 10:18:02
 ---
