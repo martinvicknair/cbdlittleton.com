@@ -7,7 +7,7 @@ post_excerpt: >
   Please leave a review about your
   experience with us. Thank you so much!
 layout: page
-permalink: https://cbdlittleton.com/reviews/
+permalink: http://cbdlittleton.com/reviews/
 published: true
 post_date: 2020-08-25 22:52:45
 ---
