@@ -5,7 +5,7 @@ author: cbdlittleton
 post_excerpt: 'We invite you to visit us and learn about the many benefits of our high quality CBD products! Come in today to our convenient Littleton location for a Free CBD Sample and receive 15% off at checkout.'
 layout: post
 permalink: >
-  http://cbdlittleton.com/15-off-coupon-post/
+  https://cbdlittleton.com/posts/coupons/15-off-coupon-post/
 published: true
 post_date: 2020-09-01 17:23:00
 ---
@@ -17,9 +17,9 @@ post_date: 2020-09-01 17:23:00
 <p>Come in today to our convenient Littleton location for a Free CBD Sample and receive 15% off at checkout.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":615,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://cbdlittleton.com/wp-content/uploads/2020/09/15-off-coupon-1024x638.jpg" alt="" class="wp-image-615"/></figure>
-<!-- /wp:image -->
+<!-- wp:shortcode -->
+[contact-form-7 id="346" title="Coupon Request"]
+<!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
 <p><strong>CBD American Shaman of Littleton</strong><br><a href="https://goo.gl/maps/n82b8KhtKeDEc5ML8">9878 W Belleview Ave, Littleton, CO 80123</a><br>Monday – Saturday 10am – 7pm<br>Sunday 10am-4pm<br>SW corner of W Belleview &amp; S Kipling<br>-Next to King Soopers<br><a href="tel:+1-720-866-9833">720-866-9833</a></p>
