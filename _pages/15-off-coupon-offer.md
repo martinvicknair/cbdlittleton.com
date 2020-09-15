@@ -5,7 +5,7 @@ author: cbdlittleton
 post_excerpt: ""
 layout: page
 permalink: >
-  https://cbdlittleton.com/15-off-coupon-offer/
+  http://cbdlittleton.com/15-off-coupon-offer/
 published: true
 post_date: 2020-08-30 18:59:03
 ---
