@@ -7,7 +7,7 @@ post_excerpt: >
   Littleton, Colorado. Shop online, free
   shipping with $99 purchase.
 layout: page
-permalink: http://cbdlittleton.com/
+permalink: https://cbdlittleton.com/
 published: true
 post_date: 2020-08-25 22:20:01
 ---
@@ -18,6 +18,12 @@ post_date: 2020-08-25 22:20:01
 <!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center"><strong>Welcome to CBD American Shaman of Littleton, Colorado</strong></p>
 <!-- /wp:paragraph -->
+
+<!-- wp:buttons {"align":"center"} -->
+<div class="wp-block-buttons aligncenter"><!-- wp:button {"style":{"color":{"gradient":"radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)"}},"textColor":"black","className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-black-color has-text-color has-background" href="/shop-online-now/" style="background:radial-gradient(rgb(202,248,128) 0%,rgb(113,206,126) 100%)" rel="/shop-online-now/">Shop Online Now!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
 
 <!-- wp:separator {"className":"is-style-wide"} -->
 <hr class="wp-block-separator is-style-wide" id="locations"/>
