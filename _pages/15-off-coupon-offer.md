@@ -1,11 +1,11 @@
 ---
 ID: 343
-post_title: '15% Off Coupon'
+post_title: '15% Off In-Store Coupon'
 author: cbdlittleton
 post_excerpt: ""
 layout: page
 permalink: >
-  http://cbdlittleton.com/15-off-coupon-offer/
+  https://cbdlittleton.com/15-off-coupon-offer/
 published: true
 post_date: 2020-08-30 18:59:03
 ---
