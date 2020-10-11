@@ -21,8 +21,8 @@ post_date: 2020-09-01 17:23:00
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
 
-<!-- wp:image {"id":615,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://cbdlittleton.com/wp-content/uploads/2020/09/15-off-coupon.jpg" target="_blank" rel="noopener noreferrer"><img src="http://cbdlittleton.com/wp-content/uploads/2020/09/15-off-coupon-1024x638.jpg" alt="" class="wp-image-615"/></a><figcaption><strong>COUPON CODE: WWW15 Expires: [wpdts-date days="+3"]</strong></figcaption></figure>
+<!-- wp:image {"align":"center","id":615,"sizeSlug":"large","linkDestination":"media"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://cbdlittleton.com/wp-content/uploads/2020/09/15-off-coupon.jpg" target="_blank" rel="noopener noreferrer"><img src="http://cbdlittleton.com/wp-content/uploads/2020/09/15-off-coupon-1024x638.jpg" alt="" class="wp-image-615"/></a><figcaption><strong>COUPON CODE: WWW15 Expires: [wpdts-date days="+5"]</strong></figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
