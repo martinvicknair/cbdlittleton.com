@@ -2,7 +2,12 @@
 ID: 646
 post_title: Hemp Infused CBD Honey Sticks
 author: cbdlittleton
-post_excerpt: ""
+post_excerpt: >
+  Our CBD infused honey sticks are the
+  perfect way to add wellness to your
+  favorite drinks or snacks. We harvest
+  raw honey from Cooper’s honey, located
+  in Missouri.
 layout: post
 permalink: >
   https://cbdlittleton.com/posts/edibles/hemp-infused-cbd-honey-sticks/
@@ -18,7 +23,7 @@ post_date: 2020-10-13 13:18:41
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><a href="https://cbdamericanshaman.com/littleton/cbd-honey">CBD honey</a> is a natural sweetener infused with hemp extract. The full-spectrum CBD hemp oil is extracted from the hemp plant, then infused into the honey. We then package our CBD honey into sticks for convenient use of one serving at a time. Edible products are many people’s favorite way to take CBD. Rather than using an oil tincture or water soluble product, edible products are a tastier way to consume CBD. </p>
+<p><a href="https://cbdamericanshaman.com/littleton/cbd-honey">CBD honey</a>&nbsp;is a natural sweetener infused with hemp extract. The full-spectrum CBD hemp oil is extracted from the hemp plant, then infused into the honey. We then package our CBD honey into sticks for convenient use of one serving at a time. Edible products are many people’s favorite way to take CBD. Rather than using an oil tincture or water soluble product, edible products are a tastier way to consume CBD. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
