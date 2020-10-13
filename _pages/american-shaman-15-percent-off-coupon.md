@@ -2,10 +2,10 @@
 ID: 343
 post_title: '15% Off In-Store Coupon Offer'
 author: cbdlittleton
-post_excerpt: ""
+post_excerpt: "We invite you to visit us and learn about the many benefits of our high quality CBD products! Enter your email below and we'll send you your coupon."
 layout: page
 permalink: >
-  http://cbdlittleton.com/15-off-coupon-offer/
+  https://cbdlittleton.com/american-shaman-15-percent-off-coupon/
 published: true
 post_date: 2020-08-30 18:59:03
 ---
