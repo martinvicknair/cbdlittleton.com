@@ -5,7 +5,7 @@ author: cbdlittleton
 post_excerpt: ""
 layout: post
 permalink: >
-  https://cbdlittleton.com/posts/uncategorized/hemp-infused-cbd-honey-sticks/
+  https://cbdlittleton.com/posts/edibles/hemp-infused-cbd-honey-sticks/
 published: true
 post_date: 2020-10-13 13:18:41
 ---
