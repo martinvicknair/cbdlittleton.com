@@ -4,7 +4,8 @@ post_title: Celebrating our Vets!
 author: cbdlittleton
 post_excerpt: ""
 layout: post
-permalink: https://cbdlittleton.com/posts/news/663/
+permalink: >
+  https://cbdlittleton.com/posts/coupons/celebrating-our-vets/
 published: true
 post_date: 2020-11-01 17:13:00
 ---
