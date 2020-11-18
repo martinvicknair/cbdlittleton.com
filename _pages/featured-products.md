@@ -5,7 +5,7 @@ author: cbdlittleton
 post_excerpt: 'We use high-quality ingredients and terpene-rich hemp to create top of the line CBD products.  Gummies, topicals, even products for your pets!'
 layout: page
 permalink: >
-  http://cbdlittleton.com/featured-products/
+  https://cbdlittleton.com/featured-products/
 published: true
 post_date: 2020-08-26 19:33:30
 ---
@@ -24,7 +24,7 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":164,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/vg-cloud-terpene-rich-cbd-oil-tincture"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/water-soluble-full-spectrum-hemp-oil-30ml.jpg" alt="" class="wp-image-164"/></a></figure>
+<figure class="wp-block-image size-large"><img class="alignnone size-full wp-image-739" src="https://cbdlittleton.com/wp-content/uploads/2020/11/water-soluble-full-spectrum-hemp-oil-30ml-1.jpg" width="1000" height="999" alt="" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -46,7 +46,7 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":166,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/vg-cloud-terpene-rich-cbd-oil-tincture"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cloud-tincture-cbd-terpene-rich-hemp-oil.jpg" alt="" class="wp-image-166"/></a></figure>
+<figure class="wp-block-image size-large"><img class="alignnone size-full wp-image-740" src="https://cbdlittleton.com/wp-content/uploads/2020/11/cloud-tincture-cbd-terpene-rich-hemp-oil-1.jpg" width="1000" height="1000" alt="" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -68,7 +68,7 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":280,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/cbg-oil"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbgo-cbg-oil.jpg" alt="" class="wp-image-280"/></a></figure>
+<figure class="wp-block-image size-large"><img class="alignnone size-full wp-image-741" src="https://cbdlittleton.com/wp-content/uploads/2020/11/cbgo-cbg-oil-1.jpg" width="1000" height="977" alt="" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -90,7 +90,7 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":174,"sizeSlug":"full"} -->
-<figure class="wp-block-image size-full"><a href="https://cbdamericanshaman.com/littleton/cbn-oil"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbnight.jpg" alt="" class="wp-image-174"/></a></figure>
+<figure class="wp-block-image size-full"><img class="alignnone size-full wp-image-742" src="https://cbdlittleton.com/wp-content/uploads/2020/11/cbnight-1.jpg" width="1000" height="667" alt="" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -112,7 +112,7 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":184,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/concentrated-cbd-hemp-oil-capsules-15mg"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/concentrated-hemp-oil-capsules.jpg" alt="" class="wp-image-184"/></a></figure>
+<figure class="wp-block-image size-large"><img class="alignnone size-full wp-image-743" src="https://cbdlittleton.com/wp-content/uploads/2020/11/concentrated-hemp-oil-capsules-1.jpg" width="1000" height="1000" alt="" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -134,7 +134,7 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":185,"sizeSlug":"full"} -->
-<div class="wp-block-image"><figure class="aligncenter size-full"><a href="https://cbdamericanshaman.com/littleton/cbd-gummies-10mg"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-gummies.jpg" alt="" class="wp-image-185"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full"><img class="alignnone size-full wp-image-744" src="https://cbdlittleton.com/wp-content/uploads/2020/11/cbd-gummies.jpg" width="1000" height="667" alt="" /></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -156,7 +156,7 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"align":"center","id":188,"sizeSlug":"medium"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><a href="https://cbdamericanshaman.com/littleton/canine-cbd-and-terpene-rich-hemp-oil-water-soluble"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/canine-cbd-hemp-oil-tincture-300x250.jpg" alt="" class="wp-image-188"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img class="alignnone size-full wp-image-745" src="https://cbdlittleton.com/wp-content/uploads/2020/11/canine-cbd-hemp-oil-tincture-300x250-1.jpg" width="300" height="250" alt="" /></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -178,7 +178,7 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":190,"sizeSlug":"medium"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><a href="https://cbdamericanshaman.com/littleton/topical-cream-500mg"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/anti-inflammatory-topical-cream-300x200.jpg" alt="" class="wp-image-190"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img class="alignnone size-full wp-image-746" src="https://cbdlittleton.com/wp-content/uploads/2020/11/anti-inflammatory-topical-cream-300x200-1.jpg" width="300" height="200" alt="" /></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -200,7 +200,7 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":193,"sizeSlug":"medium"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><a href="https://cbdamericanshaman.com/littleton/replenishing-face-cream"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/replenishing-face-cream-300x300.jpg" alt="" class="wp-image-193"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img class="alignnone size-full wp-image-747" src="https://cbdlittleton.com/wp-content/uploads/2020/11/replenishing-face-cream-300x300-2.jpg" width="300" height="300" alt="" /></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -222,7 +222,7 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":196,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/lip-revitalizer"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/lip-revitalizer.jpg" alt="" class="wp-image-196"/></a></figure>
+<figure class="wp-block-image size-large"><img class="alignnone size-full wp-image-748" src="https://cbdlittleton.com/wp-content/uploads/2020/11/lip-revitalizer-1.jpg" width="700" height="933" alt="" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -244,7 +244,7 @@ post_date: 2020-08-26 19:33:30
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":200,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/hydrating-body-lotion"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/hydrating-body-lotion.png" alt="" class="wp-image-200"/></a></figure>
+<figure class="wp-block-image size-large"><img class="alignnone size-full wp-image-749" src="https://cbdlittleton.com/wp-content/uploads/2020/11/hydrating-body-lotion-1.png" width="490" height="490" alt="" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
