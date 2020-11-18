@@ -4,7 +4,7 @@ post_title: Contact Us
 author: cbdlittleton
 post_excerpt: ""
 layout: page
-permalink: http://cbdlittleton.com/contact/
+permalink: https://cbdlittleton.com/contact/
 published: true
 post_date: 2020-08-25 22:53:08
 ---
