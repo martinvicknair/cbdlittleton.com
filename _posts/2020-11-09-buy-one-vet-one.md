@@ -12,4 +12,4 @@ post_date: 2020-11-09 15:48:14
 <html><head></head><body>
 For anyone who needs a little extra support, especially our #vets, our ultra-concentrated, terpene rich CBD oil products offer a natural and safe way to alleviate occasional stress and mild discomfort, help support feelings of calm, and much more. Come see us today for guidance on which CBD products are best for you! <br /><br /><a href="https://cbdlittleton.com">https://cbdlittleton.com</a><span> </span><br /><br />#CBDLittleton #CBDAmericanShaman
 </body>
-</html><br/><br/><a href="https://snd-videos.s3.amazonaws.com/288012/1604961957113.png"  title="veterans_day_facebook.png" ><img src="https://snd-videos.s3.amazonaws.com/288012/1604961957113.png" alt="veterans_day_facebook.png" title="veterans_day_facebook.png" /></a>
+</html><br/><br/><img class="alignnone size-full wp-image-698" src="https://cbdlittleton.com/wp-content/uploads/2020/11/1604961957113.png" width="1280" height="669" alt="veterans_day_facebook.png" title="veterans_day_facebook.png" />
