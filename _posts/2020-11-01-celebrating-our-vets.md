@@ -5,7 +5,7 @@ author: cbdlittleton
 post_excerpt: ""
 layout: post
 permalink: >
-  https://cbdlittleton.com/posts/coupons/celebrating-our-vets/
+  https://cbdlittleton.com/posts/news/celebrating-our-vets/
 published: true
 post_date: 2020-11-01 17:13:00
 ---
@@ -17,4 +17,4 @@ Learn about the qualifications here:&nbsp;&nbsp; <a href="https://cbdamericansha
 
 #CBDAmericanShaman #CBDLittleton
 
-<a href="https://cbdamericanshaman.com/images/fb-open-graph/CBDAmericanShaman-Social-Media-Custom-Link-Graphics-Programs.jpg" title="Attachment"><img src="https://cbdamericanshaman.com/images/fb-open-graph/CBDAmericanShaman-Social-Media-Custom-Link-Graphics-Programs.jpg" alt="Attachment" title="Attachment"></a>
+<img class="alignnone size-full wp-image-700" src="https://cbdlittleton.com/wp-content/uploads/2020/11/CBDAmericanShaman-Social-Media-Custom-Link-Graphics-Programs.jpg" width="1200" height="628" alt="Attachment" title="Attachment" />
