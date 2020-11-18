@@ -7,7 +7,7 @@ post_excerpt: >
   Shaman are made from high quality and
   terpene rich pure hemp extract!
 layout: page
-permalink: http://cbdlittleton.com/beauty/
+permalink: https://cbdlittleton.com/beauty/
 published: true
 post_date: 2020-08-26 23:30:49
 ---
@@ -26,7 +26,7 @@ post_date: 2020-08-26 23:30:49
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":190,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/topical-cream-500mg"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/anti-inflammatory-topical-cream.jpg" alt="" class="wp-image-190"/></a></figure>
+<figure class="wp-block-image size-large"><img class="alignnone size-full wp-image-715" src="https://cbdlittleton.com/wp-content/uploads/2020/11/anti-inflammatory-topical-cream.jpg" width="1000" height="667" alt="" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -48,7 +48,7 @@ post_date: 2020-08-26 23:30:49
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":196,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/lip-revitalizer"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/lip-revitalizer.jpg" alt="" class="wp-image-196"/></a></figure>
+<figure class="wp-block-image size-large"><img class="alignnone size-full wp-image-716" src="https://cbdlittleton.com/wp-content/uploads/2020/11/lip-revitalizer.jpg" width="700" height="933" alt="" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -70,7 +70,7 @@ post_date: 2020-08-26 23:30:49
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":193,"sizeSlug":"medium"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><a href="https://cbdamericanshaman.com/littleton/replenishing-face-cream"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/replenishing-face-cream-300x300.jpg" alt="" class="wp-image-193"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img class="alignnone size-full wp-image-717" src="https://cbdlittleton.com/wp-content/uploads/2020/11/replenishing-face-cream-300x300-1.jpg" width="300" height="300" alt="" /></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -92,7 +92,7 @@ post_date: 2020-08-26 23:30:49
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":200,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><a href="https://cbdamericanshaman.com/littleton/hydrating-body-lotion"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/hydrating-body-lotion.png" alt="" class="wp-image-200"/></a></figure>
+<figure class="wp-block-image size-large"><img class="alignnone size-full wp-image-718" src="https://cbdlittleton.com/wp-content/uploads/2020/11/hydrating-body-lotion.png" width="490" height="490" alt="" /></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -114,7 +114,7 @@ post_date: 2020-08-26 23:30:49
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":295,"sizeSlug":"medium"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><a href="https://cbdamericanshaman.com/littleton/cbd-bath-bomb"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-bath-bomb-300x300.jpg" alt="" class="wp-image-295"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img class="alignnone size-full wp-image-719" src="https://cbdlittleton.com/wp-content/uploads/2020/11/cbd-bath-bomb-300x300-1.jpg" width="300" height="300" alt="" /></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -136,7 +136,7 @@ post_date: 2020-08-26 23:30:49
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":296,"sizeSlug":"medium"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><a href="https://cbdamericanshaman.com/littleton/terpene-rich-topical-serum-15ml"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/cbd-terpene-rich-topical-serum-145x300.jpg" alt="" class="wp-image-296"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img class="alignnone size-full wp-image-720" src="https://cbdlittleton.com/wp-content/uploads/2020/11/cbd-terpene-rich-topical-serum-145x300-1.jpg" width="145" height="300" alt="" /></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -158,7 +158,7 @@ post_date: 2020-08-26 23:30:49
 <!-- wp:columns {"verticalAlignment":"center"} -->
 <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"align":"center","id":297,"sizeSlug":"medium"} -->
-<div class="wp-block-image"><figure class="aligncenter size-medium"><a href="https://cbdamericanshaman.com/littleton/under-eye-serum"><img src="http://cbdlittleton.com/wp-content/uploads/2020/08/under-eye-serum-145x300.jpg" alt="" class="wp-image-297"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium"><img class="alignnone size-full wp-image-721" src="https://cbdlittleton.com/wp-content/uploads/2020/11/under-eye-serum-145x300-1.jpg" width="145" height="300" alt="" /></figure></div>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
