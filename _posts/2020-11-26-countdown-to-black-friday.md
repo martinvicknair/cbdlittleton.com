@@ -17,4 +17,4 @@ It's getting close now! Don't forget our 30% OFF is running now&nbsp;until the e
 
 <img src="">
 
-<a title="30-off-black-friday-facebook-american-shaman.png" href="https://snd-videos.s3.amazonaws.com/288012/1606436654457.png"><img title="30-off-black-friday-facebook-american-shaman.png" src="https://snd-videos.s3.amazonaws.com/288012/1606436654457.png" alt="30-off-black-friday-facebook-american-shaman.png"></a>
+<a title="30-off-black-friday-facebook-american-shaman.png" href="https://cbdlittleton.com/wp-content/uploads/2020/11/1606436654457-1.png"><img title="30-off-black-friday-facebook-american-shaman.png" src="https://cbdlittleton.com/wp-content/uploads/2020/11/1606436654457-1.png" alt="30-off-black-friday-facebook-american-shaman.png"></a>
