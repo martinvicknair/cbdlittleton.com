@@ -5,7 +5,7 @@ author: cbdlittleton
 post_excerpt: ""
 layout: post
 permalink: >
-  https://cbdlittleton.com/posts/uncategorized/countdown-to-black-friday/
+  https://cbdlittleton.com/posts/coupons/countdown-to-black-friday/
 published: true
 post_date: 2020-11-26 17:26:29
 ---
